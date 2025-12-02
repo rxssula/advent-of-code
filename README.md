@@ -1,15 +1,3 @@
-# advent-of-code
+# Advent Of Code 2025
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.19. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+Here you can find my solutions to the AOC 2025 writtent with TypeScript and Effect
